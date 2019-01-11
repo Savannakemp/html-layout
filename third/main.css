@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.row-one {
+    background-color: lightgray;
+    width: 150vw;
+    height: 10vh;
+    padding: 5px;
+}
+
+.square-one {
+    background-color: deepskyblue;
+    height: 100%;
+    width: 7%;
+    margin-left: 20px;
+}
+
+.big-row {
+    background-color: white;
+    height: 26vh;
+    width: 150vh;
+    padding: 60px;
+
+}
+
+.text {
+    font-family: sans-serif;
+    font-size: 30pt;
+    color: black;
+}
+
+.blue-row {
+    background-color: deepskyblue;
+    width: 150vw;
+    height: 12vh;
+    padding: 5px;
+}
+
+.turquoise-row {
+    background-color: turquoise;
+    width: 150vw;
+    height: 12vh;
+    padding: 5px;
+}
+
+.green-row {
+    background-color: rgb(155, 224, 123);
+    width: 150vw;
+    height: 12vh;
+    padding: 5px;
+}
+
+.yellow-row {
+    background-color: rgb(224, 236, 48);
+    width: 150vw;
+    height: 12vh;
+    padding: 5px;
+}
